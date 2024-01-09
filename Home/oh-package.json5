@@ -1,0 +1,11 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "鸿蒙系统 书籍App，首页模块，Harmony System，book App ，home module",
+  "main": "Index.ets",
+  "author": "wujiajun",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "libhome.so": "file:./src/main/cpp/types/libhome"
+  }
+}
